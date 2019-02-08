@@ -1,4 +1,6 @@
 p{
 	float:left;
-	background-color: #8E41D5
+	background-color: pink;
+	border: 5px solid cyan;
+	border-radius: 25px;
 }
