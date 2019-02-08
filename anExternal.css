@@ -1,6 +1,14 @@
 p{
-	float:left;
-	background-color: pink;
-	border: 5px solid cyan;
+	float: right;
+	background-color: cyan;
+	border: 5px solid pink;
 	border-radius: 25px;
+	padding: 20px;
+	margin-top: 75px;
+	margin-right: 25px;
+	margin-left: 150px
+}
+
+img{
+	float: left;
 }
