@@ -4,11 +4,25 @@ p{
 	border: 5px solid pink;
 	border-radius: 25px;
 	padding: 20px;
-	margin-top: 75px;
-	margin-right: 25px;
-	margin-left: 150px
 }
 
-img{
+/*img{
 	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}*/
+
+#TextOnImage{
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+#Centered{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
